@@ -1,12 +1,4 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "redirects": [
-    {
-      "source": "/:path*",
-      "destination": "https://carboncapture-zdet9iwhf-zuowamans-projects.vercel.app/",
-      "permanent": false
-    }
-  ],
   "headers": [
     {
       "source": "/Build/(.*).wasm.br",
